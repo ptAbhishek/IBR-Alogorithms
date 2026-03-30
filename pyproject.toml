@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "ibr-defused-algorithms"
-version = "0.3.1"
+version = "0.3.2"
 description = "TensorFlow IBR5, IBR6, and fused IBR algorithms with MobileNetV2 variants"
 readme = "README.md"
 requires-python = ">=3.9,<3.14"
